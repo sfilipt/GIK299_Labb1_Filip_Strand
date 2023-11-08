@@ -1,0 +1,14 @@
+C:\Users\Filip\Documents\Skola\År1\Objektorienterad Programmering\Labbar\Labb1\bin\Debug\net6.0\Labb1.exe
+C:\Users\Filip\Documents\Skola\År1\Objektorienterad Programmering\Labbar\Labb1\bin\Debug\net6.0\Labb1.deps.json
+C:\Users\Filip\Documents\Skola\År1\Objektorienterad Programmering\Labbar\Labb1\bin\Debug\net6.0\Labb1.runtimeconfig.json
+C:\Users\Filip\Documents\Skola\År1\Objektorienterad Programmering\Labbar\Labb1\bin\Debug\net6.0\Labb1.dll
+C:\Users\Filip\Documents\Skola\År1\Objektorienterad Programmering\Labbar\Labb1\bin\Debug\net6.0\Labb1.pdb
+C:\Users\Filip\Documents\Skola\År1\Objektorienterad Programmering\Labbar\Labb1\obj\Debug\net6.0\Labb1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Filip\Documents\Skola\År1\Objektorienterad Programmering\Labbar\Labb1\obj\Debug\net6.0\Labb1.AssemblyInfoInputs.cache
+C:\Users\Filip\Documents\Skola\År1\Objektorienterad Programmering\Labbar\Labb1\obj\Debug\net6.0\Labb1.AssemblyInfo.cs
+C:\Users\Filip\Documents\Skola\År1\Objektorienterad Programmering\Labbar\Labb1\obj\Debug\net6.0\Labb1.csproj.CoreCompileInputs.cache
+C:\Users\Filip\Documents\Skola\År1\Objektorienterad Programmering\Labbar\Labb1\obj\Debug\net6.0\Labb1.dll
+C:\Users\Filip\Documents\Skola\År1\Objektorienterad Programmering\Labbar\Labb1\obj\Debug\net6.0\refint\Labb1.dll
+C:\Users\Filip\Documents\Skola\År1\Objektorienterad Programmering\Labbar\Labb1\obj\Debug\net6.0\Labb1.pdb
+C:\Users\Filip\Documents\Skola\År1\Objektorienterad Programmering\Labbar\Labb1\obj\Debug\net6.0\Labb1.genruntimeconfig.cache
+C:\Users\Filip\Documents\Skola\År1\Objektorienterad Programmering\Labbar\Labb1\obj\Debug\net6.0\ref\Labb1.dll
